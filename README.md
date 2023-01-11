@@ -8,4 +8,4 @@ This is part of the getting started guide for Dagger. For more information, see 
 
 Make this pipeline do some cooler stuff, maybe build an image?
 
-- [] Build an Image.
+- [ ] Build an Image.
